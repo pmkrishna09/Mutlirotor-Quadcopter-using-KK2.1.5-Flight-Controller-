@@ -1,5 +1,6 @@
-# 🚁 Mutlirotor-Quadcopter-using-KK2.1.5-Flight-Controller- 🛰🎯
-Project on buidling a Quadcopter
+# 🚁 Mutlirotor-Quadcopter-using-KK2.1.5-Flight-Controller-for-Aerial-Applications 🛰🎯
+
+Developed and tested a functional quadcopter during a ***Project Internship*** at **Research Centre IMARAT (RCI), DRDO, Hyderabad**, gaining hands-on experience in drone technology, flight control systems, and real-time signal processing.
 
 ## 🔎📝 Overview / Project Description
 This project involves designing and developing a **multirotor quadcopter** for aerial applications, leveraging the **KK2.1.5 Flight Controller**. The quadcopter supports **wireless telemetry**, **real-time monitoring**, and **autonomous stabilization**.
