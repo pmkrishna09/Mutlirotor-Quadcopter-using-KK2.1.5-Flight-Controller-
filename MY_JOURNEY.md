@@ -2,7 +2,7 @@
 
 **Hey there! 👋**
 
-As a **"Project Intern and Lead"**, Working on the Multirotor Quadcopter with the KK2.1.5 Flight Controller has been one of the most exciting and challenging tech adventures I’ve taken on so far! 🚁✨
+As a **"Project Intern and Project Lead"** at RCI, DRDO, Hyderabad , Working on the Multirotor Quadcopter with the KK2.1.5 Flight Controller has been one of the most exciting and challenging tech adventures I’ve taken on so far! 🚁✨
 
 This wasn’t just about getting something to fly—it was a deep dive into embedded system design, RF communication, real-time systems, and hands-on firmware development. From tuning ESCs and BLDC motors using MultiWii firmware to setting up a reliable 6-channel RF transmitter, I got to experience what it takes to bring a complex aerial system to life from scratch. 🛠️📡
 But the bigger dream?
