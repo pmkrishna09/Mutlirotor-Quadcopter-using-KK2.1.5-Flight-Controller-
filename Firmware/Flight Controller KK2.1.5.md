@@ -1,22 +1,28 @@
 # ✈ ▷ Flight Controller (KK2.1.5):
 You can check the complete instruction manual of KK2.1.5 Flight Controller (Credits: https://dl.btc.pl/kamami_wa/hk_54299_7.pdf) with this link.   
 
-Stabilization and balancing of the UAV is done by the flight controller. It continuously takes measurements from the sensors (IMU, barometer etc.) and makes the required adjustments to the speed of the 
+*Stabilization and balancing* of the UAV is done by the flight controller. It continuously takes measurements from the sensors (IMU, barometer etc.) and makes the required adjustments to the speed of the 
 rotors through the ESC to keep the body stable and carry out the required movement (pitch, yaw, roll). The flying capabilities consist of the following factors:
 
-Gyro stabilization: The ability to keep the UAV stable and level.
-Self-leveling: The ability to automatically adjust itself during any orientation so the UAV stays level.
-Altitude Hold: The ability to hover at a certain altitude over the ground.
+*Gyro stabilization:* The ability to keep the UAV stable and level.
+
+*Self-leveling:* The ability to automatically adjust itself during any orientation so the UAV stays level.
+
+*Altitude Hold:* The ability to hover at a certain altitude over the ground.
 
 The KK2.1.5 was engineered from the ground up to bring multi-rotor flight to everyone, not just the experts. The LCD screen and built-in software makes install and setup easier than ever.
 A host of multi-rotor craft types are pre-installed, simply select your craft type, check motor layout/propeller direction, calibrate your ESCs and radio and your are ready to go! All of which is done with
 easy-to-follow on-screen prompts!
-The original KK gyro system has been updated to an incredibly sensitive 6050 MPU system making this the most stable KK board ever and allowing for the addition of an auto-level function. 
-At the heart of the KK2.1.5 is an Atmel Mega644PA 8-bit AVR RISC-based microcontroller with 64k of memory. An additional header has been added for voltage detection, so no need for on-board soldering.
-A handy piezo buzzer is also included with the board for audio warning when activating and deactivating the board.
-Its operating voltage is 1.8V to 5.5V and its input voltage is 4.8-6.0 V.
 
-   ---
+- The original KK gyro system has been updated to an incredibly sensitive 6050 MPU system making this the most stable KK board ever and allowing for the addition of an auto-level function. 
+
+- At the heart of the KK2.1.5 is an Atmel Mega644PA 8-bit AVR RISC-based microcontroller with 64k of memory. An additional header has been added for voltage detection, so no need for on-board soldering.
+
+- A handy piezo buzzer is also included with the board for audio warning when activating and deactivating the board.
+
+- Its operating voltage is 1.8V to 5.5V and its input voltage is 4.8-6.0 V.
+
+ ---
 ## ✈️ *Flight Controller Specifications:*
 
 | **Specification**             | **Details**                          |
